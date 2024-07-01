@@ -36,6 +36,6 @@ function sendForm(event) {
     formData.message = '';
     feedbackForm.reset();
   } else {
-    alert('Fill please all fields');
+    alert('please fill in all fields');
   }
 }
